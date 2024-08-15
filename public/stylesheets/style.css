@@ -1,0 +1,35 @@
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(251, 234, 201);
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+  color: #0240ea;
+}
+
+p {
+  font-size: 50px;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  list-style: none;
+}
+
+.main-nav a {
+  color:aquamarine;
+}
+
+.logo {
+  width: 300px;
+}
